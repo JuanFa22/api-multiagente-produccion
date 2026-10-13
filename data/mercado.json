@@ -1,0 +1,14 @@
+[
+  {"id": "M-01", "titulo": "Estacionalidad del helado en Argentina", "tags": ["helado", "helados", "estacionalidad", "verano", "demanda"],
+   "texto": "La categoria helados concentra su pico de demanda entre diciembre y marzo. En el primer trimestre del año el consumo suele crecer cerca de 12% frente al trimestre previo, con marzo mostrando una desaceleracion por la vuelta del clima fresco."},
+  {"id": "M-02", "titulo": "Helados en el NOA: consumo y clima", "tags": ["helado", "helados", "noa", "region", "norte", "clima"],
+   "texto": "En el NOA el calor se extiende hasta abril, por lo que el mercado de helados cae menos en marzo que en el resto del pais. Se estima un crecimiento sectorial de 8% a 10% entre enero y marzo en la region."},
+  {"id": "M-03", "titulo": "Tendencia del formato familiar", "tags": ["helado", "familiar", "formato", "precio", "pote"],
+   "texto": "El formato familiar gana participacion por promociones de precio por litro. Los analistas del sector lo ven como el motor de volumen en verano, con una variacion esperada de entre 5% y 11% mensual segun la region."},
+  {"id": "M-04", "titulo": "Golosinas y alfajores: demanda estable", "tags": ["alfajor", "golosinas", "alfajores", "demanda", "estable"],
+   "texto": "El segmento de alfajores muestra demanda estable con variaciones mensuales de +-4%. El canal kioscos explica gran parte del volumen y la estacionalidad es baja."},
+  {"id": "M-05", "titulo": "Galletitas dulces: sustitucion por precio", "tags": ["galletitas", "dulces", "precio", "sustitucion"],
+   "texto": "Las galletitas dulces estan sensibles al precio: el mercado cayo 2% a 3% mensual en el trimestre por sustitucion hacia marcas economicas."},
+  {"id": "M-06", "titulo": "Panorama macro del consumo masivo", "tags": ["consumo", "masivo", "macro", "inflacion", "mercado"],
+   "texto": "El consumo masivo se mantiene lateral en unidades y crece en pesos por efecto de los precios. Se recomienda comparar siempre volumen (unidades) y monto por separado."}
+]
